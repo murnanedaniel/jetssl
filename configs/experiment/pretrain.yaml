@@ -3,7 +3,7 @@
 defaults:
   # Uncomment which tasks you want to run
   ######################
-  # - /model/tasks/reg
+  - /model/tasks/reg
   # - /model/tasks/kmeans
   # - /model/tasks/vae
   # - /model/tasks/diff
